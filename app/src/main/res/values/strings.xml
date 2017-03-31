@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleRetroFitApplication</string>
+    <!--<string name="base_url">http://api.openweathermap.org/</string>-->
+    <string name="base_url">http://www.yoursite.com</string>
+</resources>
